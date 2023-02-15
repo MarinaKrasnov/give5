@@ -1,0 +1,19 @@
+.App {
+  background-color: #F5F5F5;
+  color: #000;
+  font-weight: 400;
+  font-size: 21px;
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  font-family: 'Futura PT Book';
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -ms-font-feature-settings: "kern";
+  font-feature-settings: "kern";
+}
